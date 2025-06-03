@@ -16,9 +16,7 @@ The Login screen allows user with existing accounts to log in using their email 
  
 ## Home screen
 
-<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-34-38-65_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
-   
-<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-34-49-89_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
+<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-34-38-65_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/><img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-34-49-89_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
 
 After users successfully register or log in, they will be navigated to the home screen. There is a bottom navigation bar that allows users to access other modules in the application, namely the class and exam menu, the translation screen, and the community hub. On the home screen, the virtual pet is available for interaction using the feed button. There is a progress bar that shows the level and experience of user, it indicates the closeness of users with their pets, which can be increased by feeding the pet. There is also a streak widget where users can claim rewards daily. The reward can only be claimed once a day, and claiming on consecutive days will yield a greater reward. Then, there is a hamburger menu icon at the upper left corner, clicking on it will open the drawer.
  
@@ -54,17 +52,13 @@ Once users click on the class topic, they will be directed to the Class Sign Tut
  
 ## Class Sign MCQ quiz screen
    
-<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-35-52-76_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
-
-<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-36-17-82_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
+<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-35-52-76_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/><img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-36-17-82_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
 
 The MCQ quiz screen is used to evaluate users’ ability to recognise signs based on the word. When user select an answer from the four options, feedback will be given according to the accuracy of the answer. If the answer is wrong, user need to re-select an answer, else if the answer is correct, user can proceed to the next quiz or sign tutorial.
  
 ## Class Name the Sign quiz screen
 
-<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-36-45-46_66a6d75df551272eff152acef7963861(1).jpg" alt="image" width="200"/>
-
-<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-36-50-91_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
+<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-36-45-46_66a6d75df551272eff152acef7963861(1).jpg" alt="image" width="200"/><img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-17-36-50-91_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
 
 Users are given quiz that evaluate their ability to recognise and name the sign based on the tutorial video. Users need to input the name of the sign in the text field and click on the submit button. If the answer is wrong, users need to try again, else they can proceed to the next quiz or sign tutorial video.
  
@@ -105,7 +99,6 @@ There are three different views in the community hub, which includes the posts f
 ## Comment screen
 
 <img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-15-15-22-58-97_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
-
 
 Users can view all the comments under a post and create comments for the post in its comment screen. If the user attempts to create an empty comment by clicking on the send button without putting in any input in the text field, a snackbar will pop up to notify the user that they cannot create an empty comment. If the comment is created successfully, the user will be able to see the comment published in the comment screen, and there will be a snackbar to notify the user upon the success.
  
