@@ -118,7 +118,8 @@ There are three different views in the community hub, which includes the posts f
 
 ## Comment screen
 
-![image](drive-download-20250415T001154Z-001/Screenshot_2025-04-15-15-22-58-97_66a6d75df551272eff152acef7963861.jpg)
+<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-14-18-03-16-69_66a6d75df551272eff152acef7963861.jpg" alt="image" width="100"/>
+
 
 Users can view all the comments under a post and create comments for the post in its comment screen. If the user attempts to create an empty comment by clicking on the send button without putting in any input in the text field, a snackbar will pop up to notify the user that they cannot create an empty comment. If the comment is created successfully, the user will be able to see the comment published in the comment screen, and there will be a snackbar to notify the user upon the success.
  
