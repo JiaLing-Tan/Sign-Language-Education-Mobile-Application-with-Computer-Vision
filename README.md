@@ -36,9 +36,7 @@ Clicking on the feed button in the home screen will open a food menu, where user
  
 ## Class, Evaluation, and Fingerspelling Menu screen
    
-<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-15-09-04-16-75_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
-<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-16-22-07-38-63_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
-<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-16-22-07-41-65_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
+<img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-15-09-04-16-75_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/><img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-16-22-07-38-63_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/><img src="drive-download-20250415T001154Z-001/Screenshot_2025-04-16-22-07-41-65_66a6d75df551272eff152acef7963861.jpg" alt="image" width="200"/>
 
 Clicking on the second item in the bottom navigation bar will bring the users to the class, evaluation, and fingerspelling menu. Users can navigate between the menus by using the tab bar at the top. Clicking on the topic of the day widget of any other topic will bring users to the class or exam of the topic chosen. If the topic has already been completed, there will be a green tick in the upper right corner of the topic widget. Clicking on the Fingerspelling tab will bring user to the list view for alphabets. User can click on the alphabet to go the sign tutorial display screen fo the alphabet. There is a floating button at the bottom right corner of the menu, which will take users to their learning path screen.
  
